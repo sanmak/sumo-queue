@@ -1,0 +1,23 @@
+{
+  "name": "sumo-queue",
+  "version": "1.0.0",
+  "description": "A Queue Implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanmak/sumo-queue.git"
+  },
+  "author": "SANKET MAKHIJA",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sanmak/sumo-queue/issues"
+  },
+  "homepage": "https://github.com/sanmak/sumo-queue#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.2.1"
+  }
+}
